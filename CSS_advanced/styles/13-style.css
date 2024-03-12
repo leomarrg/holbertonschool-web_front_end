@@ -25,7 +25,7 @@ a:hover {
 }
 
 a:active{
-    display: none;
+    background-color: var(--color-light-grey);
 }
 
 .visually-hidden {
