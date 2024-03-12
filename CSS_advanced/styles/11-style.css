@@ -30,12 +30,13 @@ a {
 
 .section-tagline-transform {
     text-transform: uppercase;
-    font-weight: var(--font-weight-bold);
 }
 
 .section-tagline {
     color: var(--color-primary);
     font-family: var(--font-family-title);
+    text-transform: uppercase;
+    font-weight: var(--font-weight-bold);
 }
 
 :root {
