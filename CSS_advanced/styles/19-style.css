@@ -189,7 +189,7 @@ ul.row {
 }
 
 ul.footer {
-  align-items: right;
+  text-align: right;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
