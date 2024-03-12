@@ -185,10 +185,10 @@ ul.row {
 .footer-copyright {
   margin: 0;
   font-size: var(--font-size-small);
-  color: var(--text-color);
+  color: text-color;
 }
 
-ul.footer {
+.footer ul {
   text-align: right;
 }
 
