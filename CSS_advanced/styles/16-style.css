@@ -1,4 +1,4 @@
-*, *:before, *:after{
+* {
     box-sizing: border-box;
 }
 
@@ -46,6 +46,12 @@ a:active{
 
 .section-tagline-transform {
     text-transform: uppercase;
+}
+
+.conainer {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .section-title {
