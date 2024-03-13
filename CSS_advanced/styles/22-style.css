@@ -200,10 +200,10 @@ ul.row {
 
 [class^="col-"] {
     float: left;
-    padding: .5rem;
+    padding: 0.5rem;
 }
 
-.data-section-theme {
+[data-section-theme="dark"] {
   --text-color: var(--color-white);
   --section-title-color: var(--color-white);
   background-color: var(--color-black);  
